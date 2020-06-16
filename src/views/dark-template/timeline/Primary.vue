@@ -141,15 +141,15 @@ export default {
         icon: 'mdi-console-network',
       },
       {
-        year : '2003-2005',
+        year       : '2003-2005',
         transparent: true,
-        title: 'IT Analyst',
-        html : `
+        title      : 'IT Analyst',
+        html       : `
                     <p>
                         Assigned to manage a Control Insured System and Payroll.
                     </p>
                     `,
-       icon: 'mdi-desktop-classic',
+        icon: 'mdi-desktop-classic',
       },
       {
         detailed   : true,
@@ -168,12 +168,12 @@ export default {
         /* eslint-enable no-useless-escape */
         icon: 'mdi-database-lock',
       },
-      
+
       {
-        year : '2018',
+        year       : '2018',
         transparent: true,
-        title: 'Project Certificates of Origin NAFTA',
-        html : `
+        title      : 'Project Certificates of Origin NAFTA',
+        html       : `
           <p>
             End Year Project to run and deliver Certificates of Origin for the year 2019.
           </p>
@@ -181,10 +181,10 @@ export default {
         iconImage: 'img/timeline/database-search.png',
       },
       {
-        year : '2019',
+        year       : '2019',
         transparent: true,
-        title: 'SAT Audit Project',
-        html : `
+        title      : 'SAT Audit Project',
+        html       : `
           <p>
              Project to extract and compare data and delivered to Mexican Goverment. Project was sucessful and result was a tax refund.
           </p>
@@ -192,10 +192,10 @@ export default {
         iconImage: 'img/timeline/database-search.png',
       },
       {
-        year : '2019',
+        year       : '2019',
         transparent: true,
-        title: 'NAFTA-USMCA Project migration',
-        html : `
+        title      : 'NAFTA-USMCA Project migration',
+        html       : `
           <p>
              Project to create and modify origin rules for the USMCA trade. 
          </p>
@@ -204,10 +204,10 @@ export default {
         icon : 'mdi-account-group',
       },
       {
-        year : '2020',
+        year       : '2020',
         transparent: true,
-        title: 'Web Developer Course',
-        html : `
+        title      : 'Web Developer Course',
+        html       : `
           <p>
               Taking a Web Course!
           </p>
@@ -219,7 +219,7 @@ export default {
         year : 'So far ...',
         title: 'Still learning about Web Development!',
         html : `Improve my skills in CSS and and discovering Vuejs!`,
-        icon: 'mdi-fountain-pen-tip',
+        icon : 'mdi-fountain-pen-tip',
       },
     ],
   }),

@@ -118,18 +118,18 @@ export default {
   data      : () => ({
     prouds: [
       {
-        icon  : 'mdi-help-rhombus-outline',
-        text  : 'Data and Reporting Specialist for SAT (Servicio Administracion Tributaria) Audit at DXC Technologies',
+        icon: 'mdi-help-rhombus-outline',
+        text: 'Data and Reporting Specialist for SAT (Servicio Administracion Tributaria) Audit at DXC Technologies',
         // source: '(Bytegate.ir post views)',
       },
       {
-        icon  : 'mdi-library-music',
-        text  : 'Analyst Senior migration NAFTA-USMCA Trades at DXC Technologies',
+        icon: 'mdi-library-music',
+        text: 'Analyst Senior migration NAFTA-USMCA Trades at DXC Technologies',
         // source: '(Bobet.ir and its channel downloads)',
       },
       {
-        icon  : 'mdi-timer-sand',
-        text  : 'Analyst Senior for NAFTA operations at DXC Technologies',
+        icon: 'mdi-timer-sand',
+        text: 'Analyst Senior for NAFTA operations at DXC Technologies',
         // source: '(Delix.ir service usages)',
       },
     ],
@@ -184,15 +184,14 @@ export default {
         icon : 'mdi-shield-lock',
         value: 60,
       },
-      
-      
+
       {
         title: 'Git',
         icon : 'mdi-git',
         value: 60,
       },
       { divider: true },
-      
+
       {
         title: 'Leadership',
         icon : 'mdi-account-group',
