@@ -212,8 +212,8 @@ export default {
               Taking a Web Course!
           </p>
           `,
-        image    : 'img/timeline/certificate.png',
-        iconImage: 'img/timeline/vue-registrar-logo.png',
+        image: 'img/timeline/certificate.png',
+        icon : 'mdi-desktop-classic',
       },
       {
         year : 'So far ...',

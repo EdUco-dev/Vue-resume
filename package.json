@@ -33,7 +33,7 @@
     "eslint-plugin-vue": "^5.2.3",
     "lint-staged": "^8.2.1",
     "sass": "^1.26.8",
-    "sass-loader": "^7.3.1",
+    "sass-loader": "^8.0.2",
     "skeleton-loader": "^2.0.0",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.1",

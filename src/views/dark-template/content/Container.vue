@@ -135,11 +135,10 @@ export default {
     ],
     educations: [
       {
-        from       : '2011',
-        to         : '2012',
-        title      : 'Master\'s degree, Information Technology Management',
-        location   : 'Universidad TecMilenio',
-        description: 'Became a member of University Academic Association of Computer Science',
+        from    : '2011',
+        to      : '2012',
+        title   : 'Master\'s degree, Information Technology Management',
+        location: 'Universidad TecMilenio',
       },
     ],
     skills: [
@@ -151,7 +150,7 @@ export default {
       {
         title: 'HTML',
         icon : 'mdi-language-html5',
-        value: 80,
+        value: 50,
       },
       {
         title: 'CSS',
@@ -161,28 +160,28 @@ export default {
       {
         title: 'JavaScript',
         icon : 'mdi-language-javascript',
-        value: 80,
+        value: 50,
       },
       {
         title: 'Vue.js Framework',
         icon : 'mdi-vuejs',
-        value: 90,
+        value: 50,
       },
       {
         title: 'React.js Framework',
         icon : 'mdi-react',
-        value: 90,
+        value: 50,
       },
       { divider: true },
       {
         title: 'Heroku',
         icon : 'mdi-shield-lock',
-        value: 80,
+        value: 50,
       },
       {
         title: 'Node',
         icon : 'mdi-shield-lock',
-        value: 60,
+        value: 50,
       },
 
       {
@@ -195,12 +194,12 @@ export default {
       {
         title: 'Leadership',
         icon : 'mdi-account-group',
-        value: 70,
+        value: 60,
       },
       {
         title: 'Linux',
         icon : 'mdi-arch',
-        value: 70,
+        value: 60,
       },
     ],
   }),
